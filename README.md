@@ -41,24 +41,6 @@ Use `[text](url)` for hyperlinks and, `![text](path/url)` for image.
 >  You can also use image links by nesting these both.
 **<ins>Input:</ins>**
 
-```md
-
-[Devincept Website](https://devincept.tech/)
-
-![DevIncept logo image](extras/logo.gif)
-
-[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
-
-```
-
-**<ins>Output:</ins>**
-
-[Devincept Website](https://devincept.tech/)
-
-![DevIncept logo image](extras/logo.gif)
-
-[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
-
 
 
 <hr>
